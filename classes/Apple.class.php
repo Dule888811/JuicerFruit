@@ -13,6 +13,6 @@ require_once 'core/init.php';
        }else{
            $this->wormy = true;
        }
-       $this->volume = rand(0,5);
+       $this->volume = rand(1,5);
    }
  }
