@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84f390c0-ed8c-4964-9ef0-dfa42a892cd4" name="Default Changelist" comment="" />
+    <list default="true" id="84f390c0-ed8c-4964-9ef0-dfa42a892cd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/classes/Apple.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Apple.class..php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Fruit.class..php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Fruit.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/FruitBowls.class..php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/FruitBowls.class..php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Juicer.class..php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Juicer.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Strainer.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Strainer.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +21,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1slxUUJWizVBKtuZb20nZoSA1KB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +47,9 @@
       <option name="presentableId" value="Default" />
       <updated>1621460992176</updated>
       <workItem from="1621460995406" duration="19032000" />
+      <workItem from="1621492738304" duration="36000" />
+      <workItem from="1621718753221" duration="166000" />
+      <workItem from="1621977106744" duration="1049000" />
     </task>
     <servers />
   </component>
@@ -57,6 +73,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="464" y="422" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1621480711592" />
+    <state x="337" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1621718757016">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="337" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1621718757016" />
     <state x="371" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1621477099279">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

@@ -13,7 +13,7 @@ class FruitBowls implements FruitBowlsInterface
     $counter = 0;
         foreach($fruit as $item)
         {
-            if($_fruits = $this->_capacity)
+            if($item = $this->_capacity)
             {
                 break;
             }
@@ -21,7 +21,8 @@ class FruitBowls implements FruitBowlsInterface
             $_fruits[] = $item;
             if($counter  % 9 == 0 )
             {
-                if(Apple::$wormy == false)
+                $apple = new Apple();
+                if($apple->wormy == false)
                 {
                     array_pop($_fruits);
                 }

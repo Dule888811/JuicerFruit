@@ -14,7 +14,8 @@ class Strainer implements StrainerInterface
 
             if($counter  % 9 == 0 )
             {
-                if(Apple::$wormy == false)
+                $apple = new Apple();
+                if($apple->wormy == false)
                 {
                     $this->juice = $this->juice + 0;
                 }else{
