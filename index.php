@@ -1,7 +1,7 @@
 <?php
 require_once 'core/init.php';
 
-for ($i=0;$i++;$i<100) {
+for ($i=0;$i<100;$i++) {
 
     $juicer = new Juicer();
     $volume = Juicer::getVolume();
